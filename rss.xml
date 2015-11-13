@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andy Bradbury]]></title>
         <description><![CDATA[Andy Bradbury]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andy-bradbury/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 18:23:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 Nov 2015 18:25:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andy-bradbury/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The one thing you never hear about Khalif Diouf is how much he laughs.  In general, the native New York rapper — better known as Le1f — is portrayed as a soft-spoken, yet deadly serious provocateur wholly dedicated to his bawdy, politically charged party raps. He helps that image along, of course: confrontational onstage, always strictly composed and mean-mugging like a couture model in photoshoots, and ready to unleash a social media beatdown on anyone unwise enough to call him transphobic or make bigoted comments about his career.  But in person, that all melts away with the arrival of his big, endearing exclamation point of a chortle, one that bursts loudly and often over whatever space he happens to inhabit — for example, a beige booth in a Midtown Manhattan diner, talking to a reporter about X-Men.  "I was just into mutant… situations," he says of his nerdy childhood, laughing over a plate of plain French toast. (They were out of cinnamon-raisin bread.) He’s ordered a pitcher of water, too, worried he’s getting sick before his CMJ show at Williamsburg’s Cameo Gallery later this week. "I always liked Iceman, but he just came out of the closet. He said he didn’t want to before because he didn’t want to deal with the double-discrimination. I’m like, ‘Whatever, I’ve been a gay black dude my whole life. Get over it.’"</p>]]></description>
+            <link>https://thegrid.ai/andy-bradbury/the-one-thing-you-never-hear-about-khalif-diouf-is-how-much/index.html</link>
+            <guid isPermaLink="false">f1e4e40a-7b69-4841-ba73-6afb23a45951</guid>
+            <pubDate>Fri, 13 Nov 2015 18:25:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a post</p>]]></description>
-            <link>undefined5cf49b19-91a7-4b3b-9876-466a13f8f0ef/index.html</link>
+            <link>https://thegrid.ai/andy-bradbury/5cf49b19-91a7-4b3b-9876-466a13f8f0ef/index.html</link>
             <guid isPermaLink="false">5cf49b19-91a7-4b3b-9876-466a13f8f0ef</guid>
             <pubDate>Fri, 13 Nov 2015 18:23:04 GMT</pubDate>
         </item>
